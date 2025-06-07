@@ -19,7 +19,7 @@ This repository presents the molecular docking results of neem-derived compounds
 
 ## Background
 
-Zika virus (ZIKV) is a mosquito-borne flavivirus associated with serious neurological complications. Neem (Azadirachta indica) phytochemicals are known for broad-spectrum antiviral effects. This project evaluates the potential of selected neem compounds—**gedunin, nimbolide, salannin**—compared to **ribavirin** and **sofosbuvir** against the Zika virus NS2B-NS3 protease using molecular docking.
+Zika virus (ZIKV) is a mosquito-borne flavivirus associated with serious neurological complications. Neem (Azadirachta indica) phytochemicals are known for broad-spectrum antiviral effects. This project evaluates the potential of selected neem compounds  (**gedunin, nimbolide, salannin**) compared to FDA-approved drugs (**ribavirin** and **sofosbuvir**) against the Zika virus NS2B-NS3 protease using molecular docking.
 
 ---
 
@@ -86,9 +86,9 @@ neem-zika-docking/
 
 ## Contact
 
-**Author:** Siddharth K. Nagaraj  
-**Email:** siddharth.nagaraj@gmail.com  
-**LinkedIn:** [Add your profile link here]
+**Author:** Siddharth K Nagaraj  
+**Email:** siddn.bme@gmail.com  
+**LinkedIn:** www.linkedin.com/in/siddharth-k-nagaraj-012287174
 
 ---
 
