@@ -1,0 +1,15 @@
+receptor = 5JHM.pdbqt
+ligand = nimbolide.pdbqt
+out = nimbolide_out.pdbqt
+
+center_x = 48.5
+center_y = -23.0
+center_z = 48.5
+
+size_x = 40
+size_y = 24
+size_z = 32
+
+exhaustiveness = 8
+num_modes = 10
+energy_range = 4

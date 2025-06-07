@@ -1,0 +1,10 @@
+Zika Virus Protein Structures
+--------------------------------------------------------------------------------
+NS3 Helicase (5GJB) – Replication protein
+Envelope Protein (5JHM) – Virus entry protein
+NS2B-NS3 Protease (5LC0) – Essential enzyme for replication
+
+Neem Compounds
+--------------------------------------------------------------------------------
+Nimbolide - CID: 12313376
+Gedunin - CID: 12004512
