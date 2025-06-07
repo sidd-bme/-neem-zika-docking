@@ -1,4 +1,5 @@
-# Neem Compounds and Benchmark Drugs Against Zika Virus Protease (5JHM): Molecular Docking Project
+### Molecular Docking Project
+# Neem Compounds and Benchmark Drugs Against Zika Virus Protease (5JHM)
 
 This repository presents the molecular docking results of neem-derived compounds and FDA-approved drugs (ribavirin, sofosbuvir) against the Zika virus NS2B-NS3 protease (PDB: 5JHM). All docking runs were performed with AutoDock Vina.
 
